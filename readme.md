@@ -47,7 +47,3 @@ To replicate or extend this analysis, follow these steps:
 ## Acknowledgments
 
 This project is inspired by the field of Social Network Analysis and hierarchical clustering techniques.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
