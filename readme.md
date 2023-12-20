@@ -30,6 +30,22 @@ The dendrogram was generated using the hierarchical clustering results. Each lea
 
 In the dendrogram, observe how individuals with similar interests or social platform usage are grouped together. The structure of the dendrogram can reveal patterns and communities within the social network.
 
+## Evaluation Metrics
+
+The clustering results were evaluated using the following metrics:
+
+- **Silhouette Score:** 0.4732
+
+  - A higher silhouette score indicates well-defined clusters.
+
+- **Calinski-Harabasz Score:** 59.32
+
+  - Higher values indicate better-defined clusters.
+
+- **Davies-Bouldin Score:** 0.7798
+
+  - A lower Davies-Bouldin Index is indicative of better clustering.
+
 ## Usage
 
 To replicate or extend this analysis, follow these steps:
